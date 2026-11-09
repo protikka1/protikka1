@@ -1,0 +1,10 @@
+# Python environments & cache
+.venv/
+.myenv/
+__pycache__/
+*.py[cod]
+
+# Secrets & temp
+.env
+*.env
+.DS_Store
