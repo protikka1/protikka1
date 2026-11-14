@@ -1,4 +1,4 @@
-# Hi, I'm Abu Islam 👋
+# Hi, I'm Abul Islam 👋
 ### Google Workspace & Email Deliverability Specialist | Python Automation
 
 I help businesses, agencies, and domain owners secure custom email infrastructure, eliminate spam folder placement, and resolve Google Workspace DNS issues.
